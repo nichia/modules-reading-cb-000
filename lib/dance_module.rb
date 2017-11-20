@@ -1,11 +1,11 @@
 module Dance
 
   def twirl
-    "I'm twirling"
+    "I'm twirling!"
   end
 
   def jump
-    "Look how hight I'm jumping"
+    "Look how high I'm jumping!"
   end
 
   def pirouette
